@@ -1,1 +1,2 @@
-# trex-main
+# T-rex
+T-rex game for chrome
